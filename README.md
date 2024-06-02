@@ -35,7 +35,7 @@
  2. `npm i`
  3. `npm run start`
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+**NOTE** : If you stuck then contact me on LinkedIn (https://www.linkedin.com/in/amandeep-chaudhary-95a811267/)
 
 ## Request
 
